@@ -47,14 +47,21 @@
 }
 
 .footer-end {
-  width: 100%;
-  /*height: 20%;*/
+  /*width: 100%;
+
  position: fixed;
   margin-top: 0 0 0 0;
   text-align: center;
   background-color: rgb(128, 128, 128);
   bottom: 0;
- left: 0;
+ left: 0;*/
+ position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
 }
 
 .footer-end a {
