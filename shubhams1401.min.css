@@ -1,5 +1,8 @@
 /*
 
+<!-- Shubham Sambhaji Sawant -->
+<!-- instagram : @shubhams1401-->
+
  ////////  //     //  //     //  ////////   //     //   ////////   ///////////////   ////////  ////    //     //  /////////  ////  
 //         //     //  //     //  //     //  //     //  //     //  //     //     //  //           //    //     //  //     //    //
 //         //     //  //     //  //     //  //     //  //     //  //     //     //  //           //    //     //  //     //    //
@@ -47,29 +50,22 @@
 }
 
 .footer-end {
-
-
-
-
-
-
-
- position: fixed;
+   position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
- height: 8vh;
+   height: 8vh;
    background-color: rgb(128, 128, 128);
    color: white;
    text-align: center;
- display: flex;
- justify-content: center;
- align-items: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 .footer-end a {
   color: white;
- margin-left: 5px;
+  margin-left: 5px;
   text-decoration-color: white;
 }
 @media only screen and (max-width: 850px) {
